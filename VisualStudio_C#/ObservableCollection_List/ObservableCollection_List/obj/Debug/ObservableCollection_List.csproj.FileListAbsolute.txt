@@ -1,0 +1,14 @@
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\bin\Debug\ObservableCollection_List.exe.config
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\bin\Debug\ObservableCollection_List.exe
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\bin\Debug\ObservableCollection_List.pdb
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\ObservableCollection_List.csprojResolveAssemblyReference.cache
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\MainWindow.g.cs
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\App.g.cs
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\ObservableCollection_List_MarkupCompile.cache
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\ObservableCollection_List_MarkupCompile.lref
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\MainWindow.baml
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\ObservableCollection_List.g.resources
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\ObservableCollection_List.Properties.Resources.resources
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\ObservableCollection_List.csproj.GenerateResource.Cache
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\ObservableCollection_List.exe
+c:\users\anku\documents\visual studio 2015\Projects\ObservableCollection_List\ObservableCollection_List\obj\Debug\ObservableCollection_List.pdb

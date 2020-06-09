@@ -1,0 +1,13 @@
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\App.g.cs
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\DEV101_MarkupCompile.cache
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\bin\Debug\DEV101.exe.config
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\bin\Debug\DEV101.exe
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\bin\Debug\DEV101.pdb
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\MainWindow.g.cs
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\DEV101_MarkupCompile.lref
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\MainWindow.baml
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\DEV101.g.resources
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\DEV101.Properties.Resources.resources
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\DEV101.csproj.GenerateResource.Cache
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\DEV101.exe
+c:\users\anku\documents\visual studio 2015\Projects\DEV101\DEV101\obj\Debug\DEV101.pdb

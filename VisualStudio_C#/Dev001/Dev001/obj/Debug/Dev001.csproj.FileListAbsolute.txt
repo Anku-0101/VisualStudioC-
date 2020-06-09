@@ -1,0 +1,6 @@
+c:\users\anku\documents\visual studio 2015\Projects\Dev001\Dev001\bin\Debug\Dev001.exe.config
+c:\users\anku\documents\visual studio 2015\Projects\Dev001\Dev001\bin\Debug\Dev001.exe
+c:\users\anku\documents\visual studio 2015\Projects\Dev001\Dev001\bin\Debug\Dev001.pdb
+c:\users\anku\documents\visual studio 2015\Projects\Dev001\Dev001\obj\Debug\Dev001.csprojResolveAssemblyReference.cache
+c:\users\anku\documents\visual studio 2015\Projects\Dev001\Dev001\obj\Debug\Dev001.exe
+c:\users\anku\documents\visual studio 2015\Projects\Dev001\Dev001\obj\Debug\Dev001.pdb

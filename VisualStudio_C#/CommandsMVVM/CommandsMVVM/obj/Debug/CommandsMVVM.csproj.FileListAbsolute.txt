@@ -1,0 +1,15 @@
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\bin\Debug\CommandsMVVM.exe.config
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\bin\Debug\CommandsMVVM.exe
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\bin\Debug\CommandsMVVM.pdb
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\CommandsMVVM.csprojResolveAssemblyReference.cache
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\MainWindow.g.cs
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\App.g.cs
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\CommandsMVVM_MarkupCompile.cache
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\CommandsMVVM_MarkupCompile.lref
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\MainWindow.baml
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\CommandsMVVM.g.resources
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\CommandsMVVM.Properties.Resources.resources
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\CommandsMVVM.csproj.GenerateResource.Cache
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\CommandsMVVM.exe
+c:\users\anku\documents\visual studio 2015\Projects\CommandsMVVM\CommandsMVVM\obj\Debug\CommandsMVVM.pdb

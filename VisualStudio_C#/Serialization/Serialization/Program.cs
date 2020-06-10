@@ -10,6 +10,9 @@ namespace Serialization
     {
         static void Main(string[] args)
         {
+            SerialTest st = new SerialTest();
+            st.SerializeNow();
+            st.DeserializeNow();
         }
     }
 }

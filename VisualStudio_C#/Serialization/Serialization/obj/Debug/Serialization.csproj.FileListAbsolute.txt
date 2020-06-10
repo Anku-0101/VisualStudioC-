@@ -1,1 +1,7 @@
 C:\Users\Anku\Desktop\Code\VisualStudio_C#\Serialization\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Anku\Desktop\Code\VisualStudio_C#\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Anku\Desktop\Code\VisualStudio_C#\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\Anku\Desktop\Code\VisualStudio_C#\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Anku\Desktop\Code\VisualStudio_C#\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Anku\Desktop\Code\VisualStudio_C#\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\Anku\Desktop\Code\VisualStudio_C#\Serialization\Serialization\obj\Debug\Serialization.pdb
